@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shanmukhzayn1
-- 👀 I’m interested in AI
+- 👀 I’m interested in cs
 - 🌱 I’m currently learning machine learning 
 
 
